@@ -10,4 +10,4 @@ Evaluation of expressions: Calculates and displays the result of entered express
 User-friendly interface: Clean and intuitive design for easy interaction.
 
  The calculator is designed to perform basic arithmetic operations and provide a user-friendly interface for input and output and it is just for learning purposes.
- To see the web page visit : http://127.0.0.1:5500/calci/index.html
+
